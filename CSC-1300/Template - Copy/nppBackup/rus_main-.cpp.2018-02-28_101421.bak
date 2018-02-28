@@ -26,16 +26,14 @@
 
 
 #include <cstdint>
-#include <cstdlib>
-/*
-	
-	exit(EXIT_FAILURE);
-*/
+
+
 #include <time.h>
 /*
 	Has more, all I use is:
 	VARIABLE = time(NULL);
 */
+#include <cstdlib>
 #include <stdlib.h>
 /*
 Probably does more, all I need is:

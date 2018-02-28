@@ -21,10 +21,6 @@ INFO: SEE rus-BigBadLib.h
 	VARIABLE = time(NULL);
 */
 #include <cstdlib>
-/*
-	
-	exit(EXIT_FAILURE);
-*/
 #include <stdlib.h>
 /*
 Probably does more, all I need is:
